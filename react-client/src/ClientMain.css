@@ -1,0 +1,49 @@
+.icon-right {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.icon-left {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.season-display {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.centering {
+  align-items: center;
+}
+
+.season-display.Winter i {
+  color: blue;
+}
+
+.season-display.Summer i {
+  color: red;
+}
+
+.Winter {
+  background-color: aliceblue;
+}
+
+.Summer {
+  background-color: #7ab1da;
+}
+
+.scrollingLimit {
+  overflow-y: auto;
+  height: 550px;
+  width: 500px;
+}
+
+.exitBtn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
