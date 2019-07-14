@@ -1,7 +1,7 @@
 # Device-Detection-2019
 Device Detection application via USB , created by Jan Hanoh (2019).Both Client (React JS) and Server (Node JS) are attached.
 
-Welcome to the Device-Detection Applicaion.
+Welcome to the Device-Detection Application.
 
 Created by Hanoh Jan , July 2019.
 
